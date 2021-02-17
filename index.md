@@ -1,4 +1,4 @@
-<h1 class="r-fit-text">The <strike>Diss</strike>Scholarly<br/>Work Project</h1>
+<h1 style="font-size: 4rem;">The <strike>Diss</strike>Scholarly<br/>Work Project</h1>
 
 <small>
 <a href="http://moacir.com">Moacir P. de Sá Pereira</a> | <a href="http://twitter.com/muziejus">@muziejus</a><br />
@@ -27,8 +27,6 @@ http://talks.moacir.com/the-dissertation-project
 ---
 
 ## Research Data Services <!-- .element: class="r-fit-text" -->
-### “Your research has a story. We will help you tell it.”<!-- .element: class="r-fit-text" -->
-
 
 * Alex Gil, Digital Scholarship Librarian (DH)
 * Eric Glass, GIS/Metadata Librarian (Mapping)
@@ -107,7 +105,7 @@ advance forward.
 ## Read a Book
 
 <img src="https://i.imgur.com/WGpZD3U.png" alt="Cover of The Dissertation
-Journey" style="max-height: 50vh;" />
+Journey" style="max-height: 30vh;" />
 
 Note: Well, you can read a book. Book is fine. Uses the metaphor of a journey
 up a mountain.
@@ -139,9 +137,13 @@ Me in 2021:
 
 ---
 
+## (Pause for Demo)
+
+---
+
 ## Projects are Complex Processes
 
-<img style="max-height: 30vh;" src="https://i.imgur.com/E95thY8.png" alt="Plain text document toolchain by Kieran Healy">
+<img style="max-height: 20vh;" src="https://i.imgur.com/E95thY8.png" alt="Plain text document toolchain by Kieran Healy">
 
 <p class="credit">Kieran Healy, <a href="https://plain-text.co"><i>The Plain Person’s Guide to Plain Text Social Science</i></a></p>
 
@@ -182,7 +184,7 @@ Me in 2021:
 
 ---
 
-<blockquote style="width: 70vw">Every [Git] repository is a complete, self-contained, cryptographically
+<blockquote style="font-size: 2rem;">Every [Git] repository is a complete, self-contained, cryptographically
 signed copy of [your dissertation], with a log of every recorded step in its
 development… It puts you in the habit of committing
 changes to a file or project piecemeal as you work on it, and (briefly)
@@ -216,52 +218,3 @@ project’s development at will and reconstruct what it was you were doing.</blo
 
 ## Thanks!
 ### [@muziejus](http://twitter.com/muziejus) / moacir.p@columbia.edu
-
-
-
-
-> A flashy map, in color with an unconventional projection, touts its author’s
-sense of innovation, and cartographic window dressing in a doctoral
-dissertation or academic journal suggests the work is scholarly or
-scientific.
-
-<span class="credit">[Monmonier, _How to Lie with Maps_](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html), 157.</span>
-
-
----
-
----
-
-## Software to Get
-
-<div class="row">
-<div class="col-6">
-<h3><i class="fab fa-apple"></i> MacOS</h3>
-<ol>
-<li>Git (installed via Terminal in Utilities folder <code>⌘⇧U</code>)</li>
-<li>GitHub Desktop (<a href="https://desktop.github.com/">GitHub Desktop</a>)</li>
-</ol>
-</div>
-
-<div class="col-6">
-<h3><i class="fab fa-windows"></i> Windows</h3>
-<ol>
-<li>Git (<a href="http://gitforwindows.org">gitforwindows.org</a>)</li>
-<li>GitHub Desktop (<a href="https://desktop.github.com/">GitHub Desktop</a>)</li>
-</ol>
-</div>
-
----
-
-## Outline
-
-1. Intro and Discussion
-
-2. Light Gitting
-
----
-
-## Not Dissertating by Optimizing the Means of Optimal Dissertating
-
----
-
