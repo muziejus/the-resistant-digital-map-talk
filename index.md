@@ -131,7 +131,7 @@ Me in 2008:
 Me in 2021:
 
 * [Finder + Spotlight + iCloud](https://en.wikipedia.org/wiki/Finder_(software))
-* [vim](http://vim.org) or [VSCode](https://code.visualstudio.com/)
+* [vim](http://www.vim.org) or [VSCode](https://code.visualstudio.com/)
 * [Zotero](https://www.zotero.org/)
 * [Git](http://git-scm.com) and [GitHub](http://github.com)
 
