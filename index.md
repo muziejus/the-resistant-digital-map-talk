@@ -311,7 +311,7 @@ Note: Situating the knowledge somewhat.
 
 ---
 
-## Questions for Today / Options
+## Questions for Today / Options <!-- .element: class="r-fit-text" -->
 
 * What is a map?
 * Do you need a map?
@@ -360,7 +360,7 @@ Mapping_](https://emilyfuhrman.co/projects/non-geographic-route-mapping.html)</s
 
 ---
 
-## Discussion for Today
+## Discussion for Today <!-- .element: class="r-fit-text" -->
 
 * What is a map?
 * Do you need a map?
