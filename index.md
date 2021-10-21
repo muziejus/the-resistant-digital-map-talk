@@ -1,4 +1,4 @@
-# Cartography after Cartography<!-- .element: class="r-fit-text" -->
+# The Resistant Digital Map<!-- .element: class="r-fit-text" -->
 
 ## Situated Digital Mapping<!-- .element: class="r-fit-text" -->
 
@@ -6,44 +6,26 @@
 <a href="http://moacir.com">Moacir P. de Sá Pereira</a> | <a href="http://twitter.com/muziejus">@muziejus</a><br />
 Research Data Librarian | <a href="http://library.columbia.edu">Columbia University Libraries</a> <br />
 moacir.p@columbia.edu | <a href="http://pronoun.is/he">pronoun.is/he</a><br />
-For <a href="https://www.idrh.ku.edu/">IDRH</a> Digital Storytelling Fellows at U. Kansas, 26 March 2021
+For Borderlands, Cartography, and Digital Humanities, Arizona St. U., 20
+October 2021
 </small>
 
-Note: Thanks all for coming. Thanks Sylvia for the invitation.
+Note: Thanks all for coming. Thanks Maira for the invitation.
 
 I bring you glad tidings from lands that have welcomed many throughout
-history, including the Wappinger and Munsee Lenape peoples as noted in the map
-behind me, an instance of its own cartographically driven digital mapping. 
+history, including the Wappinger and Munsee Lenape peoples.
 
-I’ll be talking today about some things that are very comfortable for me and a
-bunch of things that are kind of new and that I’m thinking about every day. 
-
-I’m also very worried I’ll be repeating some of what you all heard yesterday.
-I had hoped to tune in on Annita Lucchesi’s talk, but sometimes these things
-don’t work out. 
-
-To that end let me switch over to more presentational version of the front
-part of this workshop.
+I don’t have a lot of time tonight, and I want to spend a lot of it hearing
+from you and learning more about how you plan on building projects about the
+borderlands.
 
 ---
 
-http://talks.moacir.com/cartography-after-cartography-workshop/
+http://talks.moacir.com/the-resistant-digital-map/
 
 Note: I always make the slides for my talks and workshops available online, so
 here they are if you want to follow along at home or review the links, etc.,
 at a later date.
-
----
-
-## Outline
-
-1. Introductions
-2. Framing Device of the List of Questions
-3. Provocations
-3. “Cartography after Cartography”
-5. Situated Digital Mapping case study: Vilnius
-6. Options?
-7. Discussions of Digital Mapping in Your Storytelling
 
 ---
 
@@ -56,80 +38,46 @@ at a later date.
 
 ---
 
-## Now about You
+> Consequently, representation will never be a sufficient approach to
+addressing the colonial and neocolonial inscriptions in the digital cultural
+record.
 
-1. What’s your name?
-2. What’s your project?
-
----
-
-## Questions for Today
-
-* What is a map?<!-- .element: class="fragment" -->
+<span class="credit">[Risam, _New Digital Worlds_](https://nupress.northwestern.edu/9780810138858/new-digital-worlds/),
+19.</span>
 
 
----
+Note: Unless your syllabus has changed a lot in the past two months, these
+should be familiar lines to you, as they’re from the end of Risam’s
+introduction to _New Digital Worlds_. These words are especially relevant to
+me because of how we think about what the process of mapping is. 
 
-<img alt="A Map of the characters in John Dos Passos’s _USA_"
-	src="https://i.imgur.com/6JwsHtf.png"
-	style="width: 80%;"
-/>
+Maps strike us as representations of the world around us, and when we use the
+word more abstractly, like in talking about mental maps or cognitive maps,
+we’re inscribing a topography that is representative of a collection of
+concepts. 
 
-Note: I presented a chapter of my dissertation in 2009, I think, to my patient colleagues in the American cultures workshop. In was about John Dos Passos's work _USA_ and included this map that I had built.
-
-Map didn't make the final cut.
+But maps are terrible at mimesis. 
 
 ---
 
-> [I close <u>How to Lie with Maps</u> with] a cautionary note about the
-increased likelihood of cartographic distortion when a map must play the dual
-role of both <b>informing and impressing</b> its audience.
+> Not only is it easy to lie with maps, it’s essential. To portray meaningful relationships for a complex, three-dimensional world on a flat sheet of paper or a video screen, a map must distort reality. 
 
 <span class="credit">[Monmonier, _How to Lie with
 Maps_](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html),
-157.</span>
+7.</span>
 
-Note: In the early 90s classic How to Lie with Maps, Marc Monmonier begins the
-epilogue with this remark
+Note: Monmonier opens “How to Lie with maps” with this provocation,
+immediately foregrounding the relationship between distortion and mapping.
+Monmonier continues:
 
----
+As a scale model, the map must use symbols that almost always are proportionally much bigger or thicker than the features they represent. To avoid hiding critical in­ formation in a fog of detail, the map must offer a selective, incomplete view of reality. There's no escape from the carto­ graphic paradox: to present a useful and truthful picture, an accurate map must tell white lies.
 
-> A flashy map, in color with an unconventional projection, touts its author’s
-sense of innovation, and cartographic window dressing in a doctoral
-dissertation or academic journal suggests the work is scholarly or scientific.
+In some ways, then, we can imagine that the mere process of mapping serves
+as moving past mere representation in constructing the poscolonial digital
+cultural record.
 
-<span class="credit">[Monmonier, _How to Lie with
-Maps_](https://press.uchicago.edu/ucp/books/book/chicago/H/bo27400568.html),
-157.</span>
-
-Note: This stung
-
-But now I’m sympathetic. And he’s probably even right.
-
----
-
-## Questions for Today
-
-* What is a map?
-* Do you need a map?<!-- .element: class="fragment" -->
-
-Note: What work is a map doing?
-
----
-
-## Latour and “Paper-work” <!-- .element: class="r-fit-text" -->
-
-* Mobile yet Immutable
-* Flat
-* Modifiable Scale
-* Free to Reproduce
-* Recombinable / Superimposable / Annotatable
-* Geometric
-
-<span class="credit">Latour, <a href="http://www.bruno-latour.fr/node/293.html">“Visualisation and Cognition: Drawing Things Together”</a></span>
-
-Note: Latour tells the story of La Pérouse, sent from Versailles to determine
-whether Sakhalin is an island.
+That doesn’t sound right, though. We’re still exhibiting a failure of the
+spatial imagination.
 
 ---
 
@@ -141,22 +89,36 @@ Note: Doreen Massey begins _For Space_ with a set of ruminations, of failures
 of spatial imagination. "Failure in the sense of being inadequate to face up
 to the challenges of space; a failure to take on board its coeval
 multiplicities, to accept its radical contemporaneity, to deal with its
-constitutive complexity. I like the juxtaposition Massey provides here,
+constitutive complexity.” I like the juxtaposition Massey provides here,
 between one “map” that tells a story embedded in time, and the other map that
 serves only to inform and control.
 
+This is one way of thinking about the resistant digital map, then. In telling
+a story, it positions itself within a historical narrative that it constructs
+and frames. This is an opportunity, of course, for the person or people
+creating the resistant digital map. In the short essay I wrote for Torn Apart,
+I already mention Johanna Drucker’s idea of the visualization as a knowledge
+generator, and in telling a new story never before told, maybe resistant
+digital maps do the same.
+
+But let’s spend a little more time with the Códice and view it as an online
+exhibition funded by the instituto nacional de antropología e historia.
+
+
 ---
 
+http://codicemendoza.inah.gob.mx/
 
-## Questions for Today
+Note: A story embedded in time. 
 
-* What is a map?
-* Do you need a map?
-* What is a good map? <!-- .element: class="fragment" -->
-* What makes one better than another?<!-- .element: class="fragment" -->
-* How do you improve a map you have?<!-- .element: class="fragment" -->
+brokenness of google.
+
+What is behind the impulse to put this on google maps?
+
+Let’s talk a bit about the story of informing and controlling.
 
 ---
+
 
 ## Cartography<br/><small>(the Ideal)</small>
 
@@ -178,8 +140,7 @@ In the _West_:
 * ? – ~1800: Maps, charts, etc., are all different
 * ~1800 – ~1900: All mapping should be “cartography,” unified by projective
   geometry and scale
-* ~1900 – ~1970: All mapping *is* “cartography,” even property mapping. “Why
-  maps?” is irrelevant.
+* ~1900 – ~1970: All mapping *is* “cartography,” even property mapping. 
 * ~1970 – present: The ideal is critiqued, yet now more reproduced than ever,
   online.
 
@@ -192,6 +153,8 @@ In the _West_:
 * Individuality: Making/using maps are acts of individual cognition
 * Materiality: Maps are things in specific moments
 * Observation: Maps are grounded in observation and measurement
+
+Note: Edney gives a bunch of preconceptions of the cartographic ideal
 
 ---
 
@@ -214,6 +177,11 @@ phenomena.
 <span class="credit">Edney, <a
 href="https://press.uchicago.edu/ucp/books/book/chicago/C/bo34094164.html"><i>Cartography</i></a>,
 233.</span>
+
+Note: But in closing, Edney indicates the need for an end to maps as our
+objects of discussion and, instead about mapping. I should be talking about
+resistant digital mapping and not resistant digital maps, but there’s a reason
+I chose the latter.
 
 ---
 
@@ -243,8 +211,10 @@ authorship of “objective” knowledge.<!-- .element: style="font-size: 70%;" -
 
 <span class="credit">Haraway, <a href="http://www.jstor.org/stable/3178066">“Situated Knowledges,”</a> 583, 590.</span>
 
-Note: Irresponsiblemeansunableto be called
-into account.Thereis a premiumon establishingthe capacityto seefromtheperipheriesandthedepths.Butheretherealsoliesa
+Note: The resistant digital map is an instance of situational digital mapping.
+
+Irresponsible means unable to be called
+into account.There is a premium on establishing the capacity to see from the peripheries and the depths.Butheretherealsoliesa
 
 seriousdangerof romanticizingand/orappropriatingthe vision of thelesspowerfulwhileclaimingtoseefromtheirpositions.Tosee
 from below is neither easily learnednor unproblematic,even if
@@ -311,17 +281,6 @@ Note: Situating the knowledge somewhat.
 
 ---
 
-## Questions for Today / Options <!-- .element: class="r-fit-text" -->
-
-* What is a map?
-* Do you need a map?
-* What is a good map? 
-* What makes one better than another?
-* How do you improve a map you have?
-* Can We Make a Situated Digital Map?  <!-- .element: class="fragment" -->
-
----
-
 ## Leaflet
 
 * [Freely available JavaScript library](http://leafletjs.com)
@@ -337,7 +296,7 @@ traps and obstacles.
 
 ---
 
-## Let’s Make the Web Bend to You<!-- .element: class="r-fit-text" -->
+## Resist the Web and Make It Bend to You<!-- .element: class="r-fit-text" -->
 
 1. Get and download a map you like (or [use the Vilnius map](https://i.imgur.com/klz6lLe.jpg))
 2. Make a short list of points of interest (or copy these: `Das hoche Slochs,
